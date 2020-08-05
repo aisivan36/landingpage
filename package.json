@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "HomePage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-boginski/landingpage.git"
+  },
+  "author": "Ivan-Boginski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan-boginski/landingpage/issues"
+  },
+  "homepage": "https://github.com/ivan-boginski/landingpage#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
